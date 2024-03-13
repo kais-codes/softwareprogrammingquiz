@@ -1,4 +1,4 @@
-# CS467 - Software Programming Quiz
+# Software Programming Quiz
 
 The software programming quiz project is a website that allows employers to assess potential candidates. Employers can create custom timed quizzes and send them to each candidate automatically through email. Once the candidate has completed the quiz, the results can be reviewed by the employer individually and collectively online. 
 
@@ -26,3 +26,5 @@ Candidates can:
 - navigate to /src
 - npm install
 - node app.js 3000
+
+This website was possible with the combined efforts of Sheng Feng, Lorraine Tauiliili, and myself!
